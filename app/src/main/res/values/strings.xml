@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GithubUserSearch</string>
+    <string name="pencarian_user">Pencarian User</string>
+    <string name="username">Username</string>
+    <string name="anda_harus_mengisi_kata_kunci_pencarian">Anda harus mengisi kata kunci pencarian</string>
+    <string name="name_id">Name ID</string>
+    <string name="login_id">Login ID</string>
+    <string name="followers">%1$s Followers</string>
+    <string name="following">%1$s Following</string>
+    <string name="followers_title">Followers</string>
+    <string name="following_title">Following</string>
+    <string name="follower_following">Follower/Following</string>
+    <string name="favorite">Favorite</string>
+    <string name="light_mode">Light Mode</string>
+    <string name="favorite_user_is_empty">Favorite user is empty</string>
+    <string name="actions">Actions</string>
+    <string name="add_to_favorite">Add to Favorite</string>
+    <string name="remove_from_favorite">Remove from Favorite</string>
+    <string name="share_link_profile">Share Link Profile</string>
+    <string name="tomainactivity">toMainActivity</string>
+</resources>
