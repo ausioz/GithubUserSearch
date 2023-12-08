@@ -20,7 +20,7 @@ android {
         buildConfigField(
             "String",
             "GITHUB_TOKEN_HEADERS",
-            "\"Authorization: token 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\""
+            "\"Authorization: 'ADD YOUR TOKEN HERE'\""
         )
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
